@@ -1,0 +1,9 @@
+{
+  "name": "My Browser",
+  "short_name": "Browser",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#1a1a2e",
+  "theme_color": "#e94560",
+  "icons": [{"src": "https://via.placeholder.com/192", "sizes": "192x192", "type": "image/png"}]
+}
